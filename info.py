@@ -5,20 +5,20 @@ from Script import script  # Custom script file with caption & other settings
 # 🚀 Bot Session and Token Information
 SESSION = 'Webavbot'  # Pyrogram client session name
 
-API_ID = 24620215  # Telegram API ID
-API_HASH = 'b6781cce52e272e11dabc88cd31c566c'  # Telegram API Hash
-BOT_TOKEN = '8246112276:AAGHSDx4qIHPTkJzwKUjZ_vWzlL5ANHjpaI'  # Telegram Bot Token
+API_ID = 36282056  # Telegram API ID
+API_HASH = '3a948acece533f362b4c90b2b3c14b60'  # Telegram API Hash
+BOT_TOKEN = '8171094813:AAHf6NHlgi6pRku_zS-XqdoQmJWrpco21-k'  # Telegram Bot Token
 
 # 👑 Channels & Logs
-BIN_CHANNEL = -1003293080937  # File storage channel
-LOG_CHANNEL = -1003293080937  # General log channel
-PREMIUM_LOGS = -1003293080937  # Premium user actions log
-VERIFIED_LOG = -1003293080937  # Verified user actions log
-SUPPORT_GROUP = -1003293080937
+BIN_CHANNEL = -1003285174560  # File storage channel
+LOG_CHANNEL = -1003285174560  # General log channel
+PREMIUM_LOGS = -1003285174560  # Premium user actions log
+VERIFIED_LOG = -1003285174560  # Verified user actions log
+SUPPORT_GROUP = -1003285174560
 
 # Admin and Auth Channel IDs
-ADMINS = [7430655591]  # List of admin user IDs
-AUTH_CHANNEL = [-1003293080937]  # Allowed channels for authorization
+ADMINS = [8312532076]  # List of admin user IDs
+AUTH_CHANNEL = [-1003285174560]  # Allowed channels for authorization
 
 # Usernames (without @)
 OWNER_USERNAME = 'Zeroboy216'  # Owner's username
