@@ -46,7 +46,7 @@ SHORTLINK_URL = 'techvjlink.site'  # Shortener site
 SHORTLINK_API = 'd73e70a35dc3877fa14afbf51fa8ec312c94780c'  # API key for shortlink
 
 # 💾 MongoDB Connection Information
-DB_URL = "mongodb+srv://Hdmoviehutcloud:zero8907@cluster0.sgcp0am.mongodb.net/?appName=Cluster0"  # MongoDB connection URI
+DB_URL = "mongodb+srv://Mvzydatabase_db:venura8907@cluster0.sphzemi.mongodb.net/?appName=Cluster0"  # MongoDB connection URI
 DB_NAME = "cluster0"  # MongoDB database name
 
 # 📸 All Media (Images)
