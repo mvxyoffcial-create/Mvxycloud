@@ -130,7 +130,7 @@ async def media_streamer(request: web.Request, id: int, secure_hash: str):
             "Content-Type": mime_type,
             "Content-Length": str(req_length),
             "Content-Range": f"bytes {from_bytes}-{until_bytes}/{file_size}",
-            "Content-Disposition": f'inline; filename="{file_name}"',
+            "Content-Disposition": f'attachment; filename="{file_name}"',  # ✅ Fixed: inline -> attachment
             "Accept-Ranges": "bytes",
         }
     )
